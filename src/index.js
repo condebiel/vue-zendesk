@@ -25,7 +25,7 @@ module.exports = {
 
       const script = document.createElement("script");
       script.type = "text/javascript";
-      script.async = true;
+      script.defer = true;
       script.id = "ze-snippet";
       const actualZendeskKey = zendeskKey || options.key;
       script.src =

@@ -1,13 +1,6 @@
 # vue-zendesk
 
-[![npm version][npm-version-src]][npm-version-href]
-[![npm downloads][npm-downloads-src]][npm-downloads-href]
-[![Dependencies][david-dm-src]][david-dm-href]
-[![Standard JS][standard-js-src]][standard-js-href]
-
-> Vue.js plugin for Zendesk Web Widget
-
-This plugin allows you to configure and add Zendesk Web Widget
+This repo is a fork of [@dansmaculotte/vue-zendesk](https://github.com/dansmaculotte/vue-zendesk). Please visit the original repo to be up to date.
 
 [Zendesk Web Widget Documentation](https://developer.zendesk.com/embeddables/docs/widget/introduction)
 
