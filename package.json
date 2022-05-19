@@ -1,19 +1,11 @@
 {
   "name": "@condebiel/vue-zendesk",
-  "version": "0.4.6",
+  "version": "0.4.7",
   "description": "Vue plugin for Zendesk Web Widget",
   "license": "MIT",
   "main": "src/index.js",
   "repository": "https://github.com/condebiel/vue-zendesk",
   "contributors": [
-    {
-      "name": "Gaël Reyrol",
-      "email": "gael@dansmaculotte.fr"
-    },
-    {
-      "name": "Romain Touzé",
-      "email": "romain@dansmaculotte.fr"
-    },
     {
       "name": "Biel Conde",
       "email": "bielbcm@gmail.com"
